@@ -1,4 +1,4 @@
-//Servo Control simple test
+
 #include <Servo.h>
 
 Servo ultrasonic_servo; 
