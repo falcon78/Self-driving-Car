@@ -1,6 +1,10 @@
 # Self-driving-Car
 GPS / GLOONAS / 超音波センサー / デジタルコンパス　を使った自動運転車。
+Devices Used : Raspberry Pi , Arduino Nano , etc 
+レポート :  https://www.docdroid.net/41LH4t2/report.pdf
 
+
+![alt text](https://i.imgur.com/J65LRsK.mp4)
 
 ![alt text](https://i.imgur.com/CHn5khr.jpg)
 
@@ -18,11 +22,6 @@ GPS / GLOONAS / 超音波センサー / デジタルコンパス　を使った�
 
 ![alt text](https://i.imgur.com/ugVfOMD.jpg)
 
-
-レポート :  
-動画 : https://youtu.be/MF8RlkJ7n7I
-
-Devices Used : Raspberry Pi , Arduino Nano , etc 
 
 Dont really have time to write down everything now , so it might be a while until i write proper readme
 
