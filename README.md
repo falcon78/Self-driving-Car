@@ -4,7 +4,7 @@ Devices Used : Raspberry Pi , Arduino Nano , etc
 レポート :  https://www.docdroid.net/41LH4t2/report.pdf
 
 
-![alt text](https://gfycat.com/WellgroomedDependableHoatzin.gif)
+![alt text](https://gfycat.com/WellgroomedDependableHoatzin)
 
 ![alt text](https://i.imgur.com/CHn5khr.jpg)
 
