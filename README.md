@@ -3,6 +3,7 @@ GPS / GLOONAS / 超音波センサー / デジタルコンパス　を使った�
 Devices Used : Raspberry Pi , Arduino Nano , etc 
 レポート :  https://www.docdroid.net/41LH4t2/report.pdf
 
+![](https://j.gifs.com/XL6wpV.gif)
 ![](gif.gif)
 
 ![alt text](https://i.imgur.com/CHn5khr.jpg)
