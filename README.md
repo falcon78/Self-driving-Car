@@ -5,6 +5,8 @@ Devices Used : Raspberry Pi , Arduino Nano , etc
 
 レポート :  https://www.docdroid.net/wOOtrf2/report.pdf
 
+動画 : https://www.youtube.com/watch?v=EZjDLVoXszM&t=28s
+
 ![](https://j.gifs.com/XL6wpV.gif)
 ![](gif.gif)
 
