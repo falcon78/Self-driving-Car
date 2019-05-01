@@ -1,5 +1,5 @@
 # Self-driving-Car
-GPS / GLOONAS / 超音波センサー / デジタルコンパス　を使った自動運転車。
+GPS / GLOONAS / 超音波センサー / デジタルコンパス　を使った自動運転ロボット。
 
 Devices Used : Raspberry Pi , Arduino Nano , etc 
 
